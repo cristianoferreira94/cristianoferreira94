@@ -9,12 +9,6 @@ Estou aprendendo e criando projetos com:
 - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="150px" height="45px" alt="logo css"/>
 
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="150px" height="55px" alt="logo java-script"/>
-  <br>
-  <br>
-
-:grin:  VENHA CONHECER MEU PERFIL DO LINKEDIN :grin:
-
-<a href="www.linkedin.com/in/cristiano-ferreiira/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px" height="45px" alt="logo linkedin" />
 
 <br>
 <br>
