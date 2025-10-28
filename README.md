@@ -14,7 +14,7 @@ Estou aprendendo e criando projetos com:
 
 :grin:  VENHA CONHECER MEU PERFIL DO LINKEDIN :grin:
 
-<a href="www.linkedin.com/in/cristiano-ferreiira"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px" height="45px" alt="logo linkedin" />
+<a href="www.linkedin.com/in/cristiano-ferreiira/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px" height="45px" alt="logo linkedin" />
 
 <br>
 <br>
